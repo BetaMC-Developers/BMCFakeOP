@@ -1,0 +1,12 @@
+name: BMCFakeOP
+main: org.betamc.bmcfakeop.BMCFakeOP
+version: 1.0
+
+commands:
+  fakeop:
+    description: Send fake OP message to specified player
+    usage: /<command> (Target player)
+
+  fakedeop:
+    description: Send fake De-OP message to specified player
+    usage: /<command> (Target player)

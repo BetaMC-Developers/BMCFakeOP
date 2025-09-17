@@ -1,5 +1,6 @@
 name: BMCFakeOP
 main: org.betamc.bmcfakeop.BMCFakeOP
+visible: false
 version: 1.0
 
 commands:
